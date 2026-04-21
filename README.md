@@ -19,7 +19,7 @@ E-commerce platforms generate thousands of customer reviews daily. Manually anal
   - Rating ≤ 2 → Negative
   - Rating = 3 → Neutral
   - Rating ≥ 4 → Positive
-- **Class distribution:** Heavily imbalanced — positive reviews dominate
+- **Class distribution:** Heavily imbalanced, the positive reviews dominate
 
 ---
 
